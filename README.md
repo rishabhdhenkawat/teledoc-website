@@ -88,22 +88,6 @@ GitHub will alert you that you can merge the two branches because there is no co
 </tbody></table>
 
 
-
-<h2 align=center> ✨ Contributors </h2>
-
-Thanks go to these **Wonderful People** 👨🏻‍💻:      🚀 **Contributions** of any kind are welcome! 
-
-<table>
-	<tr>
-		 <td>
-  		<a href="https://github.com/rishabhdhenkawat/teledoc-website/graphs/contributors">
-  			<img src="https://contributors-img.web.app/image?repo=rishabhdhenkawat/teledoc-website" />
-  		</a>
-		</td>
-	</tr>
-</table>
-<br>
-
 ## License
 
 ![License](https://img.shields.io/badge/license-MIT%20License-blue.svg)
